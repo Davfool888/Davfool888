@@ -1,4 +1,4 @@
-<h1 align="center">⭐Hola, soy Davfool Herrera⭐</h1>
+<h1 align="center">⭐Hola, soy David Herrera Reales⭐</h1>
 <h2 align="center">Un apasionado estudiante y futuro Ingeniero de Software de Colombia</h2>
 <h4 align="center">Apasionado por la programación, las matemáticas y la tecnología 🚀</h4>
 
